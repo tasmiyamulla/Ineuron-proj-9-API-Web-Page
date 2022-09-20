@@ -2,7 +2,7 @@
 
 _by Tasmiya 💗_
 
-### 🔗*Live Link* -: [API Web Page]()
+### 🔗*Live Link* -: [API Web Page](https://tasmiya-proj-9.netlify.app)
 
 ![API Web Page](./9.png)
 
